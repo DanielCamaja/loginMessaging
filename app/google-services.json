@@ -1,0 +1,231 @@
+{
+  "project_info": {
+    "project_number": "986339825488",
+    "firebase_url": "https://cursofirebase2018-862a8.firebaseio.com",
+    "project_id": "cursofirebase2018-862a8",
+    "storage_bucket": "cursofirebase2018-862a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986339825488:android:995ef3ec4b485ab3",
+        "android_client_info": {
+          "package_name": "com.conchita.android.basedatosdos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986339825488-d10clbkrc7pk5cj0v6s9kli0nf9vud7n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.conchita.android.basedatosdos",
+            "certificate_hash": "9505e619ba12e2e14aba3b96e69733fa160a2512"
+          }
+        },
+        {
+          "client_id": "986339825488-cuke08boa8j7jvca9528pskjnp8sq4vb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZjqDMkOTo2v1NaB0gs5hzbIL_igUjuBc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986339825488-cuke08boa8j7jvca9528pskjnp8sq4vb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986339825488:android:efe0432a96be4938",
+        "android_client_info": {
+          "package_name": "com.conchita.android.primerbase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986339825488-s2k64s94cs3s84p7np2h6d7lied574vm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.conchita.android.primerbase",
+            "certificate_hash": "9505e619ba12e2e14aba3b96e69733fa160a2512"
+          }
+        },
+        {
+          "client_id": "986339825488-cuke08boa8j7jvca9528pskjnp8sq4vb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZjqDMkOTo2v1NaB0gs5hzbIL_igUjuBc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986339825488-cuke08boa8j7jvca9528pskjnp8sq4vb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986339825488:android:3b95c2ad856ce546",
+        "android_client_info": {
+          "package_name": "com.genrysofionet.firecurso"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986339825488-fe89uugnlc5vjt1eq2ko6vv9ta1m7rdo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.genrysofionet.firecurso",
+            "certificate_hash": "dcf8112b159967a03117ae6f1a908bcc532fd6d6"
+          }
+        },
+        {
+          "client_id": "986339825488-cuke08boa8j7jvca9528pskjnp8sq4vb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZjqDMkOTo2v1NaB0gs5hzbIL_igUjuBc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986339825488-cuke08boa8j7jvca9528pskjnp8sq4vb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986339825488:android:9fe78cb95ae722a8",
+        "android_client_info": {
+          "package_name": "com.huberto.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986339825488-9gpqrbte53haq7kq7i49eol0luhisk66.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.huberto.firebaseapp",
+            "certificate_hash": "5b92abe6dc41c85f22098fab720442f9c48980cb"
+          }
+        },
+        {
+          "client_id": "986339825488-cuke08boa8j7jvca9528pskjnp8sq4vb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZjqDMkOTo2v1NaB0gs5hzbIL_igUjuBc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986339825488-cuke08boa8j7jvca9528pskjnp8sq4vb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986339825488:android:56d9511cde48bc45",
+        "android_client_info": {
+          "package_name": "firebaseconection.com.firebaseconection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986339825488-2tcdlhbs36g3bh2tb9mt4dnbtmkrbjv3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "firebaseconection.com.firebaseconection",
+            "certificate_hash": "b1a82e5d31e1e11e9cf89265069fc424f8d812d4"
+          }
+        },
+        {
+          "client_id": "986339825488-cuke08boa8j7jvca9528pskjnp8sq4vb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZjqDMkOTo2v1NaB0gs5hzbIL_igUjuBc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986339825488-cuke08boa8j7jvca9528pskjnp8sq4vb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
